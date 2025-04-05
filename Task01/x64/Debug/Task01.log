@@ -1,0 +1,5 @@
+﻿  Cvijet.cpp
+C:\Users\User\Desktop\Spaa\DzSpa01\Task01\Cvijet.cpp(75,9): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Source.cpp
+  Generating Code...
+  Task01.vcxproj -> C:\Users\User\Desktop\Spaa\DzSpa01\x64\Debug\Task01.exe
